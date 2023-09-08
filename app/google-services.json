@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "756949345575",
-    "project_id": "ar2687386dannavelandia",
-    "storage_bucket": "ar2687386dannavelandia.appspot.com"
+    "project_number": "922909077659",
+    "project_id": "ar2687386dannavelandia-d426b",
+    "storage_bucket": "ar2687386dannavelandia-d426b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:756949345575:android:f261574ba4380a01f47502",
+        "mobilesdk_app_id": "1:922909077659:android:32b1fe573b3aa54cd3d63e",
         "android_client_info": {
           "package_name": "co.edu.sena.ar2687386dannavelandia"
         }
       },
       "oauth_client": [
         {
-          "client_id": "756949345575-glckt0s6j0ubmkhp28etvc12l69pu82a.apps.googleusercontent.com",
+          "client_id": "922909077659-nnapi96hf02q3el674at13lpfhgbku8q.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCu0vkd9zHpRuDZrgo3fEh9X6BcCWEJ47s"
+          "current_key": "AIzaSyARkpEkTSnjY-oaUC1rO2J3uRau0yjsbCM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "756949345575-glckt0s6j0ubmkhp28etvc12l69pu82a.apps.googleusercontent.com",
+              "client_id": "922909077659-nnapi96hf02q3el674at13lpfhgbku8q.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
